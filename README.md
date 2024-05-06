@@ -25,9 +25,10 @@ o-a*e,m=40+30*          B*(f*A*n-d*c)|0
 
 ## 🚀 How to Run
 
-```bash
+- ```bash
 node donut.min.js
 ```
+- or just open `index.html` :)
 
 `donut.c`, remade in JS... and the code still looks like a donut!
 
