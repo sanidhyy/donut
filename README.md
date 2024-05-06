@@ -1,4 +1,5 @@
-# donut
+# 🍩 donut.js
+
 ```javascript
             let A=0,B=0,M=
         Math;const a=()=>{let s
@@ -21,3 +22,15 @@ o-a*e,m=40+30*          B*(f*A*n-d*c)|0
         /*~~;!!!!!!!!!!!;~~*/
             /*.,-------,.*/
 ```
+
+## 🚀 How to Run
+
+```bash
+node donut.min.js
+```
+
+`donut.c`, remade in JS... and the code still looks like a donut!
+
+`index.js` is the original code, and donut.js is the actual donut-shaped obfuscated code.
+
+If the donut looks elliptical, then you may need to adjust your font to be more square, or just modify line width and font spacing to make it more square.
