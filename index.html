@@ -10,16 +10,32 @@
     <title>Donut</title>
     <style>
         body {
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
             color: white;
             background-color: black;
             font-family: 'Space Mono', monospace;
             font-size: 25px;
         }
+	
+	.footer {
+	    position: fixed;
+	    right: 4rem;
+	    bottom: 0.1rem;
+	}
+
+	.footer > a {
+	    color: white;
+	    font-weight: bolder;
+	    text-decoration: none;
+	}
     </style>
 </head>
 
 <body>
     <pre id="output"></pre>
+    <p class="footer">Made by <a href="https://github.com/sanidhyy" rel="noreferrer noopener" target="_blank">Sanidhya</a></p>
 
     <script src="index.js"></script>
 </body>
